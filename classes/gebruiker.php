@@ -81,7 +81,4 @@ class User extends dbconfig{
         header("Location:index.php");
     }
 
-}
-
-
-?>
+}?>
